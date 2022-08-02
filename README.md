@@ -107,6 +107,10 @@
 - [Deep fried rice pudding](recipes/deep-fried-rice-pudding.md)
 - [Chocolate cheesecake](recipes/chocolate-cheesecake.md)
 
+## Sourdough
+
+- [Sourdough morning buns](recipes/sourdough-morning-buns.md)
+
 - https://www.delscookingtwist.com/easy-fluffy-banana-pancakes/
 
 ## Sourdough
