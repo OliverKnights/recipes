@@ -74,57 +74,13 @@
 
 - [Artichoke Risotto](recipes/artichike-risotto.md)
 
-### Other
+### Keto
 
-- [Basic tomato sauce](recipes/basic-tomato-sauce.md)
-- [Falafel](recipes/falafel.md)
-- [Sausage Mash Peas](recipes/sausage-mash-peas.md)
-- [Veggie Burgers](recipes/veggie-burgers.md)
-- [Spicy Potato Quinoa Cakes](recipes/potato-quinoa-cakes.md)
-- [Quinoa Risotto, mashed peas and greens](recipes/quinoa-risotto-peas.md)
+- [Thai Broccoli Rice](recipes/thai-broccoli-rice.md)
+- [Grilled Courgette + Halloumi Salad](recipes/grilled-courgette-halloumi-salad.md)
+- [Roast Aubergine with yoghurt + harissa](recipes/roast-augerine-yoghurt-harissa.md)
+- [Aubergine halloumi harissa bake](recipes/aubergine-halloumi-harissa-bake.md)
 
-## Snacks
-
-- [Borek](recipes/borek.md)
-- [Kefir cheese](recipes/kefir-cheese.md)
-- [Spinach pancakes](recipes/spinach-pancakes.md)
-- [Kimchi](recipes/kimchi.md)
-- [Hummus](recipes/hummus.md)
-
-## Sugar free
-
-- [Avocado Chocolate Mousse](recipes/avocado-chocolate-mousse.md)
-- [Berry Cheesecake Smoothie Cups](recipes/berry-cheesecake-smoothie-cups.md)
-
-## Sweet
-
-- [Orange and Almond Cake](recipes/orange-almond-cake.md)
-- [Flapjacks](recipes/flapjacks.md)
-- [Granola](recipes/granola.md)
-- [Quinoa Polenta Porridge](recipes/quinoa-polenta-porridge.md)
-- [Brownies](recipes/brownies.md)
-- [Banana Fritters](recipes/banana-fritters.md)
-- [Deep fried rice pudding](recipes/deep-fried-rice-pudding.md)
-- [Chocolate cheesecake](recipes/chocolate-cheesecake.md)
-
-## Sourdough
-
-- [Sourdough morning buns](recipes/sourdough-morning-buns.md)
-
-- https://www.delscookingtwist.com/easy-fluffy-banana-pancakes/
-
-## Sourdough
-
-https://www.sumptuousspoonfuls.com/sourdough-brioche-burger-buns/
-
-### New
-
-https://www.bbc.co.uk/food/recipes/vegetariancottagepie_92035
-https://www.bbc.co.uk/food/recipes/versatile_vegetable_stew_50136
-https://www.bbc.co.uk/food/recipes/aubergine_parmigiana_57566
-https://www.bbc.co.uk/food/recipes/caribbean_ital_bean_90555
-
-### New keto
 
 https://www.heyketomama.com/parmesan-cauliflower-steak/
 https://simply-delicious-food.com/roasted-caprese-tomatoes-with-basil-dressing/
@@ -177,6 +133,56 @@ https://www.olivemagazine.com/recipes/healthy/vegetable-omelette/
 https://www.olivemagazine.com/recipes/vegetarian/masala-omelette/
 https://www.delish.com/cooking/g4798/easy-keto-diet-dinner-recipes/
 https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository
+
+### Other
+
+- [Basic tomato sauce](recipes/basic-tomato-sauce.md)
+- [Falafel](recipes/falafel.md)
+- [Sausage Mash Peas](recipes/sausage-mash-peas.md)
+- [Veggie Burgers](recipes/veggie-burgers.md)
+- [Spicy Potato Quinoa Cakes](recipes/potato-quinoa-cakes.md)
+- [Quinoa Risotto, mashed peas and greens](recipes/quinoa-risotto-peas.md)
+
+## Snacks
+
+- [Borek](recipes/borek.md)
+- [Kefir cheese](recipes/kefir-cheese.md)
+- [Spinach pancakes](recipes/spinach-pancakes.md)
+- [Kimchi](recipes/kimchi.md)
+- [Hummus](recipes/hummus.md)
+
+## Sugar free
+
+- [Avocado Chocolate Mousse](recipes/avocado-chocolate-mousse.md)
+- [Berry Cheesecake Smoothie Cups](recipes/berry-cheesecake-smoothie-cups.md)
+
+## Sweet
+
+- [Orange and Almond Cake](recipes/orange-almond-cake.md)
+- [Flapjacks](recipes/flapjacks.md)
+- [Granola](recipes/granola.md)
+- [Quinoa Polenta Porridge](recipes/quinoa-polenta-porridge.md)
+- [Brownies](recipes/brownies.md)
+- [Banana Fritters](recipes/banana-fritters.md)
+- [Deep fried rice pudding](recipes/deep-fried-rice-pudding.md)
+- [Chocolate cheesecake](recipes/chocolate-cheesecake.md)
+
+- https://www.delscookingtwist.com/easy-fluffy-banana-pancakes/
+
+## Sourdough
+
+- [Sourdough morning buns](recipes/sourdough-morning-buns.md)
+- [Sourdough banana pancakes](recipes/sourdough-banana-pancakes.md)
+
+https://www.sumptuousspoonfuls.com/sourdough-brioche-burger-buns/
+
+### New
+
+https://www.bbc.co.uk/food/recipes/vegetariancottagepie_92035
+https://www.bbc.co.uk/food/recipes/versatile_vegetable_stew_50136
+https://www.bbc.co.uk/food/recipes/aubergine_parmigiana_57566
+https://www.bbc.co.uk/food/recipes/caribbean_ital_bean_90555
+
 
 https://www.bbcgoodfood.com/recipes/kimchi-fried-rice
 
