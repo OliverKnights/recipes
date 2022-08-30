@@ -173,6 +173,7 @@ https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-da
 
 - [Sourdough morning buns](recipes/sourdough-morning-buns.md)
 - [Sourdough banana pancakes](recipes/sourdough-banana-pancakes.md)
+- [Sourdough burger buns](./recipes/sourdough-burger-buns.md)
 
 https://www.sumptuousspoonfuls.com/sourdough-brioche-burger-buns/
 
